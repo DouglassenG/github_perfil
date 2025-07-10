@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    background-image: url('https://cdn.pixabay.com/photo/2018/12/18/08/44/nature-3881940_1280.jpg');
+    background-repeat: no-repeat;   /* não repete a imagem */
+    background-size: cover;         /* cobre todo o fundo */
+    background-position: center;    /* centraliza a imagem */
 }
 
 .container {
@@ -12,6 +16,7 @@
 }
 
 input {
+    background:none;
     margin: 30vh auto;
     padding: 12px 24px;
     font-size: 24px;
@@ -21,6 +26,7 @@ input {
     justify-content: center; 
     align-items: center;      
     height: 8vh; 
+    text-decoration: none;
 
     @media (max-width: 768px) {
     width: 80%;
