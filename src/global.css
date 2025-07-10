@@ -11,6 +11,22 @@
     margin: 0 auto;
 }
 
+input {
+    margin: 30vh auto;
+    padding: 12px 24px;
+    font-size: 24px;
+    border: 2px solid #111;
+    border-radius: 12px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;      
+    height: 8vh; 
+
+    @media (max-width: 768px) {
+    width: 80%;
+    }
+}
+
 :root {
     --corPrincipal: #95afc0;
     --corSegundaria: #111;
