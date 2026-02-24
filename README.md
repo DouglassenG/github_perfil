@@ -17,8 +17,7 @@ O projeto resolve o desafio de extrair dados brutos de um servidor externo (JSON
 
 ## 🖼️ Demonstração Visual
 
-*(Insira aqui o link do Deploy, ex: Vercel, Netlify ou GitHub Pages)*
-🔗 **Acesse a Aplicação Online:** [https://seu-link-aqui.vercel.app](https://seu-link-aqui.vercel.app)
+https://github-perfil-dmsr.vercel.app/
 
 ## 🛠️ Tecnologias Utilizadas
 
